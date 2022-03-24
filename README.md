@@ -1,5 +1,7 @@
 # COMP1531 Major Project
 
+FINAL GROUP MARK: 92/100
+
 ## Changelog
 
 * 28-10: Adding password reset as routes not automatically auth checking
